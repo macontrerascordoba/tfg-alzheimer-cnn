@@ -161,4 +161,7 @@ cython_debug/
 
 
 # Data folder
-data/
+.data/
+
+# Intructions File
+.intructions.md
