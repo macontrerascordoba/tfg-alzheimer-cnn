@@ -1,4 +1,8 @@
 ## Provisional
+tensorflow
 pandas
-Pyarrow
+nibabel
+numpy
+pandas
+scikit-learn
 #
