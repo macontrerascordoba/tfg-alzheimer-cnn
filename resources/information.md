@@ -3,7 +3,7 @@
 ## Groups
 
 - CN (Cognitively Normal)
-- LMCI(Late Mild Cognitive Impairment)
+- MCI(Mild Cognitive Impairment)
 - AD(Alzheimer's Disease)
 
 ## Description
