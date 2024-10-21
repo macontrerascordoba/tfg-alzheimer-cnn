@@ -1,8 +1,0 @@
-## Provisional
-tensorflow
-pandas
-nibabel
-numpy
-pandas
-scikit-learn
-#
